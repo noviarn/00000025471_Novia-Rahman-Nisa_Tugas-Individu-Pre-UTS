@@ -1,0 +1,7 @@
+{
+  "name": "tugas individu mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
